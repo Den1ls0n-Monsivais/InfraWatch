@@ -1,9 +1,9 @@
 """
 ╔══════════════════════════════════════════════════════════════╗
-║  InfraWatch v2.2 — IT Infrastructure Monitor                ║
+║  InfraWatch v2.3 — IT Infrastructure Monitor                ║
 ║  Backend API — FastAPI + SQLAlchemy + SQLite                 ║
 ╠══════════════════════════════════════════════════════════════╣
-║  Nuevas funciones v2.2:                                      ║
+║  Nuevas funciones v2.3:                                      ║
 ║  ✦ Auto-migración segura al arrancar (nunca rompe la BD)    ║
 ║  ✦ Rol RH — gestión exclusiva de personal                   ║
 ║  ✦ Rol IT — acceso completo a infraestructura               ║
